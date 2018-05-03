@@ -1,0 +1,42 @@
+  Section of Biomedical Image Analysis
+  Department of Radiology
+  University of Pennsylvania
+  Richards Building
+  3700 Hamilton Walk, 7th floor
+  Philadelphia, PA 19104
+  
+  Cardiovascular Research Center
+  Temple University School of Medicine
+  3500 N. Broad Street, 10th Floor
+  Philadelphia, PA  19140 
+
+  Web:   https://www.cbica.upenn.edu/sbia/Erdem.Varol/nuquantus.html
+  Email: erdem.varol at uphs.upenn.edu
+         polina.gross at temple.edu
+
+  Copyright (c) 2015 University of Pennsylvania, Temple University. All rights reserved.
+  See COPYING file.
+
+
+
+INTRODUCTION
+============
+
+  This document lists the authors of this software and further people who
+  significantly contributed to it.
+
+  See the README and COPYING documents for general information,
+  acknowledgements of contributions other kind, and licensing.
+
+
+
+AUTHORS
+=======
+
+  The original authors of this software are:
+
+  - Erdem VAROL
+  - Polina GROSS
+  - Nicolas HONNORAT
+
+
